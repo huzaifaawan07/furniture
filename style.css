@@ -1,0 +1,75 @@
+.aj{
+  font-family: 'Tenali Ramakrishna', sans-serif !important;
+  font-size: 5vw;
+}
+.logodiv{
+  justify-content: center;
+  
+  align-content: center;  
+}
+.logotext{
+  font-family: 'Major Mono Display', monospace;
+    font-size: 5vw;
+    text-align: center;
+    color: rgb(40, 41, 54);
+    text-shadow: 2px 2px 6px rgb(5, 4, 5);
+}
+
+.nav{
+  color: rgb(40, 41, 54);
+  font-size: 0.3cm !important;
+}
+.btn-secondary {
+width: 2.2cm !important;
+height: 0.7cm !important;
+}
+.dropdown-toggle{
+  background-color:rgb(250, 235, 235) !important ;
+}
+.ourcollection{
+  font-family: 'Major Mono Display', monospace;
+  text-align: center;
+}
+.collection{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.text{
+  text-align: center;
+  font-family: 'Major Mono Display', monospace;
+}
+.homefooter{
+  display: flex;
+  flex-wrap: wrap;
+  
+  justify-content: center;
+}
+.footer{
+  color: rgb(250, 235, 235) !important;
+}
+.flex{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  justify-content: space-around;
+  margin-left: 1cm;
+  margin-right: 1cm;
+  margin-bottom: 1cm;
+  margin-top: 1cm;
+}
+.btn-outline-dark{
+  justify-content: center !important;
+}
+.card-title{
+  text-align: center;
+  font-family: 'Major Mono Display', monospace;
+}
+.btn-primary{
+  background-color: rgb(143, 140, 141) !important;
+  text-align: cente !important;
+  align-content: center !important;
+}
+.row{
+  justify-content: center !important;
+}
